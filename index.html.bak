@@ -34,7 +34,7 @@
       <div class="cover bg-image"><img src="images/header-background.jpg"/>
         <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);backdrop-filter: blur(1px);">
           <div class="text-center p-5">
-            <img class="img-thumbnail rounded-circle shadow-2-strong" src="images/avatar.jpeg" width="160" height="140" style="height: 200px;object-fit: cover;width: 200px;">           <div class="header-bio mt-3">
+            <img class="img-thumbnail rounded-circle shadow-2-strong" src="images/avatar-white2.jpeg" width="160" height="140" style="height: 200px;object-fit: cover;width: 200px;">           <div class="header-bio mt-3">
               <div data-aos="zoom-in" data-aos-delay="0">
                 <h2 class="h1">Tiago Costa</h2>
                 <p>Software Engineer</p>
@@ -73,7 +73,7 @@
               <div class="pb-2 fw-bolder"><i class="fab fa-github pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Github</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">/tiagocostaskblue</div>
+              <div class="pb-2">/zetiagocosta</div>
             </div>
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Phone</div>
@@ -225,7 +225,7 @@
               <ul class="nav justify-content-center">
                 <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/zetiagocosta/" target="_blank" title="Linkedin"><i class="fab fa-linkedin pe-2 text-muted"></i><span class="menu-title sr-only">Linkedin</span></a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="https://github.com/tiagocostaskblue" target="_blank" title="Github"><i class="fab fa-github pe-2 text-muted"></i><span class="menu-title sr-only">Github</span></a>
+                <li class="nav-item"><a class="nav-link" href="https://github.com/josetpcosta" target="_blank" title="Github"><i class="fab fa-github pe-2 text-muted"></i><span class="menu-title sr-only">Github</span></a>
                 </li>
               </ul>
             </nav>
